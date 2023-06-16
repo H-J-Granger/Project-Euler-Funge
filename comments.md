@@ -1,6 +1,6 @@
 ## 1. Multiples of 3 or 5
 
-### 1.b98
+### 1-1.b98
 
 <10ms, 26907 ticks.
 
